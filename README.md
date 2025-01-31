@@ -1,6 +1,6 @@
 # OpenScripture
 
-OpenScripture is a website dedicated to freely sharing the Word of God with all people. The purpose of this website is to provide easy access to sermons, scripture, and uplifting Christian music, helping individuals grow in their faith and seek God’s kingdom.
+OpenScripture is a platform dedicated to freely sharing the Word of God with all people. The purpose of this website is to provide easy access to sermons, scripture, and uplifting Christian music, helping individuals grow in their faith and seek God’s kingdom.
 
 ## Purpose
 The mission of OpenScripture is to glorify God by making His Word accessible to everyone. Inspired by Matthew 6:33, this website encourages people to seek God first in all aspects of their lives.
